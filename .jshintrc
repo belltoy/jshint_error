@@ -1,3 +1,4 @@
 {
-    "forin": true
+    "forin": true,
+    "maxerr": 1
 }
